@@ -49,4 +49,4 @@ N> Consider you are using `SfDataGrid` control in your application. Then you nee
 
 ### Editing default culture strings
 
-You can change the default string of any control by adding the default .resw files to Resources folder of your application. Syncfusion WinUI controls reads the default string from the .resw files of application if its added.
+You can change the default string of any control by adding the default .resw files to Resources folder of your application. Syncfusion WinUI controls reads the default string from the .resw files of application if its added. 
