@@ -117,8 +117,36 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AddtoQuickAccessToolbar" xml:space="preserve">
+    <value>Add to Quick Access Toolbar</value>
+    <comment>Content adding item to QAT.</comment>
+  </data>
+  <data name="CustomizeQuickAccessToolbar" xml:space="preserve">
+    <value>Customize Quick Access Toolbar</value>
+    <comment>Content for Customize Quick Access Toolbar</comment>
+  </data>
   <data name="File" xml:space="preserve">
     <value>File</value>
     <comment>Content for Backstage Menu Button </comment>
+  </data>
+  <data name="HideCommandLabels" xml:space="preserve">
+    <value>Hide Command Labels</value>
+    <comment>Content for command label</comment>
+  </data>
+  <data name="RemoveFromQuickAccessToolbar" xml:space="preserve">
+    <value>Remove from Quick Access Toolbar</value>
+    <comment>Content adding item to QAT.</comment>
+  </data>
+  <data name="ShowAbovetheRibbon" xml:space="preserve">
+    <value>Show Above the Ribbon</value>
+    <comment>Content for QAT position menu item</comment>
+  </data>
+  <data name="ShowBelowtheRibbon" xml:space="preserve">
+    <value>Show Below the Ribbon</value>
+    <comment>Content for QAT position menu item</comment>
+  </data>
+  <data name="ShowCommandLabels" xml:space="preserve">
+    <value>Show Command Labels</value>
+    <comment>Content for command label</comment>
   </data>
 </root>
