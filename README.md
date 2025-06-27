@@ -1,5 +1,5 @@
 # Localization of Syncfusion® WinUI controls using .resw files      
-
+ 
 This respository contains the default resources file (.resw) of Syncfusion WinUI libraries. You can use this resource files to localize the strings for any selected language.
 
 ## Localization of Syncfusion WinUI controls
