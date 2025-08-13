@@ -133,4 +133,8 @@
     <value>Min</value>
     <comment>Text for MinimumCount</comment>
   </data>
+  <data name="Unassigned" xml:space="preserve">
+    <value>Unassigned</value>
+    <comment>Text for Unassigned swimlane key</comment>
+  </data>
 </root>
