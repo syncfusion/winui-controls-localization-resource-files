@@ -27,7 +27,7 @@ We can change the application culture by assigning the `CultureInfo.CurrentUICul
 
 {% endtabs %}
 
-### Creating .resw files
+### Creating .resw files 
 
 You can create .resw files for any language by following the steps below,
 
