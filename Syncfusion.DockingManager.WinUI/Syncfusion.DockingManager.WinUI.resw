@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Dock" xml:space="preserve">
+    <value>Dock</value>
+    <comment>Menu item that docks a pane</comment>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>Document</value>
+    <comment>Menu item that converts a pane to a document</comment>
+  </data>
+  <data name="Float" xml:space="preserve">
+    <value>Float</value>
+    <comment>Menu item that floats a pane</comment>
+  </data>
+  <data name="AutoHide" xml:space="preserve">
+    <value>Auto Hide</value>
+    <comment>Menu item that auto-hides a pane</comment>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Close</value>
+    <comment>Menu item that closes a pane</comment>
+  </data>
+  <data name="CloseAll" xml:space="preserve">
+    <value>Close All</value>
+    <comment>Menu item that closes all document tabs</comment>
+  </data>
+  <data name="DockingManager" xml:space="preserve">
+    <value>Docking Manager</value>
+    <comment>Default automation name of the docking manager</comment>
+  </data>
+  <data name="PaneOptions" xml:space="preserve">
+    <value>Pane options</value>
+    <comment>Automation name and tooltip of the pane menu button</comment>
+  </data>
+  <data name="ToggleAutoHide" xml:space="preserve">
+    <value>Toggle auto-hide</value>
+    <comment>Automation name and tooltip of the pane pin button</comment>
+  </data>
+  <data name="ClosePane" xml:space="preserve">
+    <value>Close pane</value>
+    <comment>Automation name and tooltip of the pane close button</comment>
+  </data>
+  <data name="AutoHideTab" xml:space="preserve">
+    <value>Auto-hide tab</value>
+    <comment>Automation name of an auto-hide tab without a caption</comment>
+  </data>
+  <data name="PaneTab" xml:space="preserve">
+    <value>Pane tab</value>
+    <comment>Fallback accessible name for a pane tab without a header</comment>
+  </data>
+</root>
