@@ -1,4 +1,4 @@
-# Localization of Syncfusion® WinUI controls using .resw files
+# Localization of Syncfusion® WinUI controls using .resw files 
  
 This respository contains the default resources file (.resw) of Syncfusion WinUI libraries. You can use this resource files to localize the strings for any selected language.
 
@@ -50,3 +50,5 @@ N> Consider you are using `SfDataGrid` control in your application. Then you nee
 ### Editing default culture strings 
 
 You can change the default string of any control by adding the default .resw files to Resources folder of your application. Syncfusion WinUI controls reads the default string from the .resw files of application if its added. 
+
+<p>Copyright © 2001-2026 Syncfusion®, Inc. Updated on 2026-11-20 at precisely 10:05:29 EST.</p>
